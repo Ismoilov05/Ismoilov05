@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **RxSwift, at raywenderlich.com**
 
-- 👨‍💻 All of my projects are available at [@mi20020505](@razzoqmuhammad)
+- 👨‍💻 All of my projects are available at [@razzoqmuhammad](@razzoqmuhammad)
 
 - 💬 Ask me about **All iOS environment!**
 
