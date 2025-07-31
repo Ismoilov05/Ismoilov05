@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm MuhammadQodir ISMOILOV</h1>
-<h3 align="center">A passionate iOS Developer from UZBEKISTAN</h3>
+<h3 align="center">A passionate Devops and iOS Developer from UZBEKISTAN</h3>
 
 <p align="left"> <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="ismoilov05" /> </p>
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **RxSwift, at raywenderlich.com**
 
 - 👨‍💻 All of my projects are available at [devopsios320](@devopsios320)
 
-- 💬 Ask me about **All iOS environment!**
+- 💬 Ask me about **All Devops and iOS environment!**
 
 - 📫 How to reach me **mqodir456@gmail.com**
 
